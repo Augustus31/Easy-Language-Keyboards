@@ -36,9 +36,9 @@ type it again completely). The codes for Spanish special characters are as follo
 ¿ - @//1
 
 
-When the app is launched, a small popup will appear, indicating that the app has successfully started. 
-Once you hit the "Begin" button, the app will begin operation. The app will run in the background, 
-changing the codes to special characters whenever you enter them. To kill the app, simply type in //k or click the end button.
+When the app is launched, a small popup will appear, indicating that it has successfully started. 
+Once you hit the "Begin" button, the app will run in the background, changing the codes to special characters 
+whenever you enter them. To kill the app, simply type in //k or click the end button.
 
 Kill - //k
 
