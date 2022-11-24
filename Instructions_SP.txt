@@ -1,0 +1,44 @@
+The Spanish Easy Keyboard makes typing Spanish special characters simple. To type a special character, you must type a code that 
+matches to that character. If the code is correct, then the code disappears and is replaced by that character. 
+The code must be typed all at once, with no interruptions (if you mistype the code, you have to delete the code and
+type it again completely). The codes for Spanish special characters are as follows:
+
+á - a//1
+
+Á - A//1
+
+é - e//1
+
+É - E//1
+
+í - i//1
+
+Í - I//1
+
+ó - o//1
+
+Ó - O//1
+
+ú - u//1
+
+Ú - U//1
+
+ü - u//2
+
+Ü - U//2
+
+ñ - n//1
+
+Ñ - N//1
+
+¡ - !//1
+
+¿ - @//1
+
+
+When the app is launched, a small popup will appear, indicating that the app has successfully started. 
+Once you hit the "Begin" button, the app will begin operation. The app will run in the background, 
+changing the codes to special characters whenever you enter them. To kill the app, simply type in //k or click the end button.
+
+Kill - //k
+
