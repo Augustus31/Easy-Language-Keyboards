@@ -7,8 +7,6 @@ These apps are for use on Windows machines only (Macs already have easy special 
 
 Currently, the Spanish and Portuguese language versions are available. Expect more languages to be released in the future, such as French and German. 
 
--------------------------------------
-
 ## Why is this app better than the US International Keyboard? (or other special character setups)?
 
 Here's why:
