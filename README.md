@@ -14,3 +14,5 @@ Here's why:
 2. There are no "dead" keys. You are free to use the ~, ^, `, and ' for other things. 
 3. You type the letter first, and then turn it into a special character. This approach is more intuitive than typing a modifying symbol before the letter.
 4. The app can be easily enabled or disabled with the press of a button.
+
+Note: You need the Java Runtime Environment on your PC for this app to function.
